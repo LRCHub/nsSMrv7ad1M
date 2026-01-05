@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ノーポイッ!",
+  "base_artist": "Petit Rabbit's",
+  "createdAt": "2026-01-05T11:50:25.556857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/01_ノーポイッ!_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/02_ノーポイッ!_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/03_ノーポイッ!_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノーポイッ! - ココアVer.",
+      "artist": "ココア(CV.佐倉綾音)",
+      "has_synced": true,
+      "path": "select/04_ノーポイッ!_-_ココアVer._ココア(CV.佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit\\'s",
+      "has_synced": true,
+      "path": "select/05_ノーポイッ!_Petit_Rabbit_'s.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ノーポイッ！ 〜ココアVer.〜",
+      "artist": "ココア(CV.佐倉綾音)",
+      "has_synced": true,
+      "path": "select/06_ノーポイッ!_〜ココアVer.〜_ココア(CV.佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノーポイッ！ 〜シャロVer.〜",
+      "artist": "シャロ(CV.内田真礼)",
+      "has_synced": true,
+      "path": "select/07_ノーポイッ!_〜シャロVer.〜_シャロ(CV.内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノーポイッ! 〜千夜Ver.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/08_ノーポイッ!_〜千夜Ver.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ノーポイッ! 〜チノVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/09_ノーポイッ!_〜チノVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ノーポイッ! 〜リゼVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/10_ノーポイッ!_〜リゼVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/11_ノーポイッ!_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ノーポイッ！",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/12_ノーポイッ!_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ノーポイッ！ 〜チノVer.〜",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/13_ノーポイッ!_〜チノVer.〜_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ノーポイッ！ 〜千夜Ver.〜",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/14_ノーポイッ!_〜千夜Ver.〜_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ノーポイッ!～ココアVersion～",
+      "artist": "Cocoa(CV.Ayane Sakura)",
+      "has_synced": true,
+      "path": "select/15_ノーポイッ!~ココアVersion~_Cocoa(CV.Ayane_Sakura).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノーポイッ!",
+      "artist": "Petit Rabbit's",
+      "has_synced": false,
+      "path": "select/pl_01_ノーポイッ!_Petit_Rabbit's.txt"
+    }
+  ]
+}
